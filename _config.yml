@@ -60,3 +60,5 @@ collections:
     feature_text: |
       ## <span style="color:white">News</span>
     feature_image: "https://WangLiLab.github.io/picture/Homepage.png"
+
+theme: jekyll-theme-cayman
